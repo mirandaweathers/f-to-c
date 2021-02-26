@@ -1,6 +1,6 @@
 /* * * * * * * * * * * * * * * * * * * * * * * * *
 *                                                *
-*         COP2220 Spring 2021: Project 1         *
+*                    F-to-C                      *
 *                                                *
 *   This program takes user input for degrees    *
 *   Fahrenheit and converts the value to         *
